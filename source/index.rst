@@ -1,6 +1,6 @@
 
-Welcome to the Applied Galactic Dynamics School Handbook
-========================================================
+The Big Apple Dynamics School Handbook
+======================================
 
 .. toctree::
    :maxdepth: 2
