@@ -42,6 +42,13 @@ templates_path = ['_templates']
 #
 html_theme = 'sphinx_book_theme'
 
+html_logo = "_static/m31-orbits.png"
+html_favicon = "_static/favicon-32x32.png"
+
+custom_js = """<script type='text/javascript'>
+$('#search-input').attr('placeholder', 'Search the handbook...');
+</script>"""
+
 html_theme_options = {
     "repository_url": "https://github.com/CCADynamicsGroup/SummerSchoolHandbook",
     "use_edit_page_button": False,
@@ -50,6 +57,7 @@ html_theme_options = {
     "use_download_button": True,
     "use_fullscreen_button": False,
     "home_page_in_toc": True,
+    "extra_navbar": "<img src='_static/CCA_logo_color.png' />" + custom_js,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
