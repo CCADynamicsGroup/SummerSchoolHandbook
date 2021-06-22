@@ -23,7 +23,7 @@ Mentors
 - David W. Hogg: dhogg@flatironinstitute.org
 - Jason Hunt: jhunt@flatironinstitute.org
 - Helmer Koppelman: helmerkoppelman@gmail.com
-- Sarah Pearson: spearson@nyu.edu%20
+- Sarah Pearson: spearson@nyu.edu
 - Adrian Price-Whelan: aprice-whelan@flatironinstitute.org
 - Robyn Sanderson: rsanderson@flatironinstitute.org
 - David Spergel: dspergel@flatironinstitute.org
