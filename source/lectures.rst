@@ -62,7 +62,7 @@ TODO:
 Galaxies as Collections of Orbits
 ---------------------------------
 
-*Tjitske Starkenburg*, &Robyn E. Sanderson*
+*Tjitske Starkenburg*, *Robyn E. Sanderson*
 
 TODO:
 

@@ -8,8 +8,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Big Apple Dynamics School Handbook'
-copyright = '2021, the SOC'
-author = 'the SOC'
+copyright = '2021, Adrian Price-Whelan'
+author = 'the Summer School Organizers'
 
 html_title = "Big Apple Dynamics"
 
