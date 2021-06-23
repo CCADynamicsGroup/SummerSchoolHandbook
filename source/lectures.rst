@@ -70,6 +70,28 @@ TODO:
 Orbital Evolution and Galactic Evolution
 ----------------------------------------
 
+Secular Evolution and Interactions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Martin D. Weinberg*
+
+* Introduction to and motivation for phase averaging
+* Introduction to Hamiltonian perturbation theory using averaging
+   * Result is broken invariants
+   * Mathematical demonstration of resonant denominators
+   * Key take-away: broken invariants imply dynamical evolution
+* Secular theory  
+   * Briefly: we compute the shift in actions by the resonances analytically
+   * No time for details but this development is key to understanding Gaia-observed resonance features in the LSR
+* Scattering basics
+   * Chandrasekhar dynamical friction
+   * Relationship to secular response theory
+   * Role of periodicity and resonances
+* Impulse approximation
+   * Basic ideas
+   * Application to tidal heating
+  
+  
 Isolated Galaxies: Secular Evolution and Modes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -77,10 +99,4 @@ Isolated Galaxies: Secular Evolution and Modes
 
 TODO:
 
-
-Galactic Interactions
-~~~~~~~~~~~~~~~~~~~~~
-
-*Martin D. Weinberg*
-
-TODO:
+  
