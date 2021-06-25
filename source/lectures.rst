@@ -15,8 +15,10 @@ Galaxies in the Universe
 
 *Tjitske Starkenburg*
 
-TODO:
-
+* Galaxies are building blocks in the Universe but show an incredible wide variety of properties. Our theories of galaxy formation have to be able to explain all flavors. 
+* A lightning intro to cosmological galaxy formation
+* Gravity beyond the individual halo: hierarchical galaxy formation leads to galaxy groups and clusters, and galaxy interactions
+* Galactic dynamics takes place within the context of galaxy formation physics; galaxy formation physics takes place in the context of dynamical effects
 
 Overview of Lectures: Galaxies as Dynamical Systems
 ---------------------------------------------------
@@ -62,36 +64,19 @@ TODO:
 Galaxies as Collections of Orbits
 ---------------------------------
 
-*Tjitske Starkenburg*, *Robyn E. Sanderson*
+*Tjitske Starkenburg*, &Robyn E. Sanderson*
 
-TODO:
+* galaxies: self-consistent equilibrium systems in the collisionless limit
+* distribution functions
+* the collisionless Boltzmann equation
+* the Jeans theorems 
+* Examples of distribution functions
+* The Jeans equations
 
 
 Orbital Evolution and Galactic Evolution
 ----------------------------------------
 
-Secular Evolution and Interactions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Martin D. Weinberg*
-
-* Introduction to and motivation for phase averaging
-* Introduction to Hamiltonian perturbation theory using averaging
-   * Result is broken invariants
-   * Mathematical demonstration of resonant denominators
-   * Key take-away: broken invariants imply dynamical evolution
-* Secular theory  
-   * Briefly: we compute the shift in actions by the resonances analytically
-   * No time for details but this development is key to understanding Gaia-observed resonance features in the LSR
-* Scattering basics
-   * Chandrasekhar dynamical friction
-   * Relationship to secular response theory
-   * Role of periodicity and resonances
-* Impulse approximation
-   * Basic ideas
-   * Application to tidal heating
-  
-  
 Isolated Galaxies: Secular Evolution and Modes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -99,4 +84,10 @@ Isolated Galaxies: Secular Evolution and Modes
 
 TODO:
 
-  
+
+Galactic Interactions
+~~~~~~~~~~~~~~~~~~~~~
+
+*Martin D. Weinberg*
+
+TODO:
