@@ -3,7 +3,7 @@ Projects and Goals
 ==================
 
 Starting on Monday July 12 through the end of the summer school, each student
-will be grouped with a set of mentors (possibly in small groups!) to work on
+will be paired with a set of mentors (possibly in small groups!) to work on
 research projects. The project ideas will be shared and introduced during the
 first week of the summer school by the mentors.
 
