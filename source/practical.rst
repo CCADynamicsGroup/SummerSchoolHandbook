@@ -36,14 +36,49 @@ WiFi
 - Password: simonsnyc
 
 
-Restaurant / Food Recommendations
----------------------------------
+Restaurant / Food / Drink Recommendations
+-----------------------------------------
 
-Coming soon!
+- Tea & Sympathy (British goodies)
+- Devoción (Coffee; near Flatiron, also in Williamsburg and other locations!)
+- Magnolia Bakery (Cupcakes and the likes)
+- `Saravana Bhavan <https://saravanabhavan.com/>`__ (Indian)
+- `Vatan <https://vatans.com/>`__ (Indian)
+- `Num Pang <https://www.numpangkitchen.com/>`__ (Cambodian)
+- `Pio Pio <https://www.piopioperu.com/>`__ (Peruvian)
+- `Zaragoza <https://goo.gl/maps/abxPWTTfCcCRTCV36>`__ (Tacos; cheap, very tasty
+  food in a very unassuming place! great for lunch)
+- `Oxomoco <https://www.oxomoconyc.com/>`__ (Mexican)
+- `Thai Villa <https://www.thaivillanc.com/>`__ (Thai)
+- `Kings Co Imperial <https://www.kingscoimperial.com/>`__ (Chinese)
+- `Palma <https://www.palmanyc.com/>`__ (Italian)
+- `Very fresh noodles <https://www.veryfreshnoodles.com/>`__
+- `Flatiron Room <https://www.theflatironroom.com/>`_ (Bar, Jazz, so much
+  Whisky)
+- `the Dead Rabbit <https://www.deadrabbitnyc.com/>`__ (Pub)
+- `Eataly (esp. rooftop bar)
+  <https://www.eataly.com/us_en/stores/nyc-flatiron/serra-by-birreria/>`__
+  (market / food / rooftop bar)
+- Apotheke (cocktail bar)
+- The Brandy library (bar)
+- Beauty & Essex (speakeasy / prohibition-esque bar)
+- `Astor Wines <https://www.astorwines.com/>`_ (Wine / liquor store)
 
 
 Sightseeing Recommendations
 ---------------------------
 
 - `Highline <https://www.thehighline.org/>`_
-- More coming soon!
+- Fotografiska museum
+- Staten Island Ferry (free and nice views of lower Manhattan)
+- IKEA ferry to explore Red Hook from Pier 11 Wall Street
+- Ferry to Rockaway Beach  from Pier 11 Wall Street
+  (https://www.ferry.nyc/routes-and-schedules/route/rockaway/)
+- Domino Park in Williamsburg for Roberta's pizza, tacos, Other Half Brewery,
+  and much more!
+- Chelsea Market (food and shops)
+- Citibike bike rentals (all over the city! ride in Central park / along the
+  Hudson greenway, etc.)
+- The Frick collection
+- `The Little Island <https://littleisland.org/>`__ (park)
+- Coney Island (beach and boardwalk)
