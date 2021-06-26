@@ -12,7 +12,7 @@ Arrival Week (June 21 to 25)
 There are no formal events scheduled this week! Move and settle in to NYC.
 
 
-Week 1 (June 28 to July 2)
+Week 0 (June 28 to July 2)
 --------------------------
 
 The goal for this week will be to watch the pre-recorded `lectures` (either
@@ -22,7 +22,7 @@ An important (mandatory) orientation session will be held 14:30–16:30 on Monda
 June 28 (Location: See Comfort-Ann's email).
 
 
-Week 2 (July 6 to July 9)
+Week 1 (July 6 to July 9)
 -------------------------
 
 *Location: Math for America (MfA)*
