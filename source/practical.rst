@@ -12,8 +12,8 @@ The entrance to the Flatiron Institute is on 21st Street.
 We will be at Math for America located at 15 Broadway for the majority of the
 summer school and occasionally have meetings at CCA.
 
-We will be having catered breakfast served everyday for the first week at 9:00
-AM on Monday and 9:30 AM Tuesday through Friday.
+We will be having catered breakfast served everyday for the first week (starting
+the week of July 6) at 9:00 AM on Monday and 9:30 AM Tuesday through Friday.
 
 A Welcome Reception will be held on Tuesday, July 6th at 17:30 on the 12th Floor
 Rooftop of the Flatiron Institute (162 5th Ave).
