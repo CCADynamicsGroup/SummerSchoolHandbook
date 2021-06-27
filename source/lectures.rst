@@ -80,7 +80,7 @@ Secular Evolution and Modes: Spiral Arms
 
 *Slack channel:* `#bads2021-4-modes-and-spiral-arms <https://ccadynamics.slack.com/archives/C026ZP8C0PJ>`__
 
-#. Statement of Problem (21:24)
-#. Instabilities and Waves (22:57)
+#. `Statement of Problem <https://www.dropbox.com/s/wisiawc39plb0xf/4A_SpiralArms.mov?dl=0>`_ (21:24)
+#. `Instabilities and Waves <https://www.dropbox.com/s/9u7aa1oym4u14e0/4B_SpiralArms.mov?dl=0>`_ (22:57)
 #. `Swing Amplification <https://www.dropbox.com/s/2tfvnhi6vn2vp4w/4C_SpiralArms.mov?dl=0>`_ (18:47)
 #. `Numerical Simulations and Spiral Arms <https://www.dropbox.com/s/k6ymntfi7d2m4g5/4D_SpiralArms.mov?dl=0>`_ (26:42)
