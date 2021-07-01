@@ -37,6 +37,30 @@ discussions at the end of the day.
 A Welcome Reception will be held on Tuesday, July 6th at 17:30 on the 12th Floor
 Rooftop of the Flatiron Institute (162 5th Ave).
 
+| **Tuesday (July 6)**
+| 08:30–09:00 — Breakfast
+| 09:00–09:30 — Welcome and Introductions
+| 09:30–10:30 — Workshop block 1
+| 10:30–11:00 — Coffee / morning break
+| 11:00–12:15 — Workshop block 2
+| 12:15–13:30 — Lunch
+| 13:30–15:00 — Discussion session for Lecture and Workshop content
+| 15:00–15:30 — Break
+| 15:30–16:00 — Mentor Introductions
+| 16:00–17:00 — Project presentations and discussion
+| 17:00–19:00 — Welcome reception
+
+
+| **Wednesday–Friday (July 7–9)**
+| 08:30–09:00 — Breakfast
+| 09:00–10:30 — Workshop block 1
+| 10:30–11:00 — Coffee / morning break
+| 11:00–12:15 — Workshop block 2
+| 12:15–13:30 — Lunch
+| 13:30–15:00 — Discussion session for Lecture and Workshop content
+| 15:00–15:30 — Break
+| 15:30–17:00 — Project presentations and discussion
+
 
 Weekly Events (July 12 through August 13)
 -----------------------------------------
