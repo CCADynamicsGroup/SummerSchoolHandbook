@@ -16,16 +16,16 @@ Slack).
 Mentors
 -------
 
-- Emily Cunningham: ecunningham@flatironinstitute.org
-- Elena D'Onghia: edonghia@astro.wisc.edu
-- Kathryn Johnston: kvj@astro.columbia.edu
-- Keith Hawkins: keithhawkins@utexas.edu
-- David W. Hogg: dhogg@flatironinstitute.org
-- Jason Hunt: jhunt@flatironinstitute.org
-- Helmer Koppelman: helmerkoppelman@gmail.com
-- Sarah Pearson: spearson@nyu.edu
-- Adrian Price-Whelan: aprice-whelan@flatironinstitute.org
-- Robyn Sanderson: rsanderson@flatironinstitute.org
+- Emily Cunningham: ecunningham@flatironinstitute.org (Office: 602)
+- Elena D'Onghia: edonghia@astro.wisc.edu (Office: 641)
+- Kathryn Johnston: kvj@astro.columbia.edu (Office: 608)
+- Keith Hawkins: keithhawkins@utexas.edu (Office: 615)
+- David W. Hogg: dhogg@flatironinstitute.org (Office: 601)
+- Jason Hunt: jhunt@flatironinstitute.org (Office: 604)
+- Helmer Koppelman: helmerkoppelman@gmail.com (Office: 615)
+- Sarah Pearson: spearson@nyu.edu (Office: 615)
+- Adrian Price-Whelan: aprice-whelan@flatironinstitute.org (Office: 611)
+- Robyn Sanderson: rsanderson@flatironinstitute.org (Office: 508)
 - David Spergel: dspergel@flatironinstitute.org
-- Tjitske Starkenburg: tjitske.starkenburg@northwestern.edu
-- Martin Weinberg: weinberg@astro.umass.edu
+- Tjitske Starkenburg: tjitske.starkenburg@northwestern.edu (Office: 615)
+- Martin Weinberg: weinberg@astro.umass.edu (Office: 613)
