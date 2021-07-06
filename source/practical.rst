@@ -9,7 +9,7 @@ The Center for Computational Astrophysics (CCA) located at 162 5th Avenue, is
 hosting the Dynamics Summer School, June 28th, 2021 through August 13th, 2021.
 The entrance to the Flatiron Institute is on 21st Street.
 
-We will be at Math for America located at 15 Broadway for the majority of the
+We will be at Math for America located at 915 Broadway for the majority of the
 summer school and occasionally have meetings at CCA.
 
 We will be having catered breakfast served everyday for the first week (starting
