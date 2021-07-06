@@ -13,9 +13,9 @@ We will be at Math for America located at 915 Broadway for the majority of the
 summer school and occasionally have meetings at CCA.
 
 We will be having catered breakfast served everyday for the first week (starting
-the week of July 6) at 9:00 AM on Monday and 9:30 AM Tuesday through Friday.
+the week of July 6). See the schedule for more information.
 
-A Welcome Reception will be held on Tuesday, July 6th at 17:30 on the 12th Floor
+A Welcome Reception will be held on Tuesday, July 6th at 17:00 on the 12th Floor
 Rooftop of the Flatiron Institute (162 5th Ave).
 
 Please check in with security upon entering either building: You will need to
